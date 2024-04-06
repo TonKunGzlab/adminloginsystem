@@ -1,0 +1,4 @@
+name: adminsystem
+version: '${project.version}'
+main: org.adminsystem.adminsystem.Adminsystem
+author: _TonKungNY_
