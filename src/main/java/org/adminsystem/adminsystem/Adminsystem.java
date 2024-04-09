@@ -19,8 +19,8 @@ public final class Adminsystem extends Plugin {
 
         String host = "localhost";
         String database = "login";
-        String username = "root";
-        String password = "dG9ubnVibm9wZGFpMm5vcG51YnRvbmRhaTF5YXlheWF5YXlhaQ==";
+        String username = "yourusername";
+        String password = "yourpassword";
 
         this.mySQLConnector = new MySQLConnector(host, database, username, password);
 
