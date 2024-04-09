@@ -45,7 +45,7 @@ CREATE TABLE `player_data` (
 --
 
 INSERT INTO `player_data` (`id`, `username`, `status`, `password`, `pre_join`, `passwords`, `time`, `ip`, `discorduuid`, `group`) VALUES
-(1, '_TonKungNY_', 'offline', '$2y$10$SLcIn75O3D2tk9FFTLNvZ.NoSxOlSYqbpMSKyb23lXyU0qg89VI9S', 'nojoin', 'LaHl4L64I4VXVKyy', 0, '127.0.0.1', '00000000000000000000000', 'developer'),
+(1, 'admin', 'offline', '$2y$10$SLcIn75O3D2tk9FFTLNvZ.NoSxOlSYqbpMSKyb23lXyU0qg89VI9S', 'nojoin', 'LaHl4L64I4VXVKyy', 0, '127.0.0.1', 'discorduuid', 'developer'),
 
 --
 -- Indexes for dumped tables
